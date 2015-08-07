@@ -1,0 +1,1 @@
+Tutorial for Android NDK development using Makefiles/Vim and standard GNU tools.  This code base is to serve as an example on producing Android projects without the use of an IDE or being tied to any specific development tools (other than Make and the standard Android SDK and NDK).
